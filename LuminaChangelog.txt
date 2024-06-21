@@ -1,0 +1,8 @@
+1.01 - Fixed issue causing quest users to crash around the water
+1.02 - Changed Rotation of some Teleport locations to be less jarring
+1.03 - Updated Quest Materials to improve performance and fixed secret teleport
+1.04 - Fixed pool cover not rendering on Quest
+1.05 - Changed default water material on Quest
+1.06 - Fixed VIP Room Pool Table
+
+</nobr><br><nobr>
